@@ -1,0 +1,71 @@
+<tv>
+  <channel id="1">
+    <display-name lang="zh">CCTV1</display-name>
+  </channel>
+  <channel id="2">
+    <display-name lang="zh">CCTV2</display-name>
+  </channel>
+  <channel id="4">
+    <display-name lang="zh">CCTV4</display-name>
+  </channel>
+  <channel id="5">
+    <display-name lang="zh">CCTV5</display-name>
+  </channel>
+  <channel id="6">
+    <display-name lang="zh">CCTV6</display-name>
+  </channel>
+  <channel id="7">
+    <display-name lang="zh">CCTV7</display-name>
+  </channel>
+  <channel id="9">
+    <display-name lang="zh">CCTV9</display-name>
+  </channel>
+  <channel id="13">
+    <display-name lang="zh">CCTV13</display-name>
+  </channel>
+  <channel id="14">
+    <display-name lang="zh">CCTV14</display-name>
+  </channel>
+  <channel id="15">
+    <display-name lang="zh">凤凰卫视</display-name>
+  </channel>
+  <channel id="16">
+    <display-name lang="zh">江苏卫视</display-name>
+  </channel>
+  <channel id="17">
+    <display-name lang="zh">浙江卫视</display-name>
+  </channel>
+  <channel id="18">
+    <display-name lang="zh">深圳卫视</display-name>
+  </channel>
+  <channel id="19">
+    <display-name lang="zh">内蒙古卫视</display-name>
+  </channel>
+  <channel id="20">
+    <display-name lang="zh">宁夏卫视</display-name>
+  </channel>
+  <channel id="21">
+    <display-name lang="zh">浙江新闻</display-name>
+  </channel>
+  <channel id="22">
+    <display-name lang="zh">浙江国际</display-name>
+  </channel>
+  <channel id="23">
+    <display-name lang="zh">浙江少儿</display-name>
+  </channel>
+  <channel id="24">
+    <display-name lang="zh">浙江教科</display-name>
+  </channel>
+  <channel id="25">
+    <display-name lang="zh">之江记录</display-name>
+  </channel>
+  <channel id="26">
+    <display-name lang="zh">浙江民生</display-name>
+  </channel>
+  <channel id="27">
+    <display-name lang="zh">浙江经视</display-name>
+  </channel>
+  <channel id="28">
+    <display-name lang="zh">钱江都市</display-name>
+  </channel>
+</tv>
